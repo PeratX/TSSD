@@ -1,0 +1,10 @@
+{
+  "name": "TSSM",
+  "version": "1.0.0",
+  "api": 4,
+  "author": "EaseCationNetwork",
+  "description": "Termux System Status Monitor",
+  "main": "PeratX\\TSSM\\TSSM",
+  "website": "http://github.com/PeratX/TSSM",
+  "order": 0
+}
